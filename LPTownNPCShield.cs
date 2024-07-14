@@ -1,15 +1,24 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Terraria;
 using Terraria.ModLoader;
 
 namespace LPTownNPCShield
 {
-	// Please read https://github.com/tModLoader/tModLoader/wiki/Basic-tModLoader-Modding-Guide#mod-skeleton-contents for more information about the various files in a mod.
-	public class LPTownNPCShield : Mod
-	{
+	public class InvulnerableTownNPC : GlobalNPC
+    {
+        public override void ModifyHitNPC(NPC npc, NPC target, ref NPC.HitModifiers modifiers)
+        {
+            if (target.friendly)
+            {
+                modifiers.SetMaxDamage(1);
+            }
+        }
 
-	}
+        public override void ModifyHitByProjectile(NPC npc, Projectile projectile, ref NPC.HitModifiers modifiers)
+        {
+            if (npc.friendly && !projectile.trap)
+            {
+                modifiers.SetMaxDamage(1);
+            }
+        }
+    }
 }
