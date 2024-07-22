@@ -1,7 +1,7 @@
 using Terraria;
 using Terraria.ModLoader;
 
-namespace LPTownNPCShield
+namespace LPTownNPCShield.src
 {
 	public class InvulnerableTownNPC : GlobalNPC
     {
