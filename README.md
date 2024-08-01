@@ -1,4 +1,3 @@
-# LP's Town NPC Shield
 **LP's Town NPC Shield** is a mod for Terraria designed to significantly enhance the protection of town NPCs. This mod ensures that friendly NPCs only take minimal damage (1 point) from bosses and other hostile mobs, making them virtually invincible in combat situations.
 
 ## How It Works:

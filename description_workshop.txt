@@ -1,6 +1,4 @@
-[img]https://i.imgur.com/fSNjidx.gif[/img]
-
-[h1]LP's Town NPC Shield[/h1]
+[img]https://i.imgur.com/j6tgASI.png[/img]
 [b]LP's Town NPC Shield[/b] is a mod for Terraria designed to significantly enhance the protection of town NPCs. This mod ensures that friendly NPCs only take minimal damage (1 point) from bosses and other hostile mobs, making them virtually invincible in combat situations.
 
 [h2]How It Works:[/h2]
@@ -16,5 +14,8 @@ LP's Town NPC Shield is compatible with most other mods. If you encounter any is
 [h2]Feedback and Support[/h2]
 If you have any feedback or need support, feel free to leave a comment or start a discussion on the Steam Workshop page. Your input is valuable and helps improve the mod.
 
-[h2]Source Code[/h2]
+[h2]Links[/h2]
 The source code for LP's Town NPC Shield is available on [url=https://github.com/Andenis-Bu/LPTownNPCShield]GitHub[/url].
+If you like LP's Town NPC Shield, check out [url=https://steamcommunity.com/workshop/filedetails/?id=3295303826]my other mods[/url].
+
+[img]https://i.imgur.com/fSNjidx.gif[/img]
